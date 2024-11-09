@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi1652&label=Profile%20views&color=0e75b6&style=flat" alt="ravi1652" /> </p>
 
-- 🌱 I’m currently learning **Data Structures , React.js**
+- 🌱 I’m Looking for internships,jobs**
 
 - 👨‍💻 All of my projects are available at [https://ravikiransrm.netlify.app/](https://ravikiransrm.netlify.app/)
 
