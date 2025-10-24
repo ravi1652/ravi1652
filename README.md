@@ -10,7 +10,7 @@
 
 Passionate software developer from India with experience building web applications and small systems projects. I enjoy turning ideas into reality using clean, maintainable code and a focus on user experience.
 
-- 🌱 Currently looking for internships and early-career roles.
+- 🌱 Currently senior software developer roles.
 - 👨‍💻 Portfolio: https://ravikiransrm.netlify.app/
 - 📫 Email: ravikiran6309@gmail.com
 - ⚡ Fun fact: I like creating new things and learning by building.
@@ -32,7 +32,7 @@ For more projects, visit the portfolio link — each project includes a short wr
 
 Core languages and frameworks:
 
-- JavaScript • React • HTML5 • CSS3 • Bootstrap
+- JavaScript • React • HTML5 • CSS3 • Bootstrap • tailwindCSS • NextJs
 - Python • C • C++
 - Node.js • Express
 
@@ -51,7 +51,7 @@ Tools & platforms:
 
 ## What I’m looking for
 
-Open to internships or junior roles where I can contribute to real products, learn from experienced engineers, and grow as a developer.
+Open to senior software developer roles where I can contribute to real products, learn from experienced engineers, and grow as a developer.
 
 ---
 
