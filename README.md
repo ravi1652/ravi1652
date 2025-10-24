@@ -1,25 +1,61 @@
-<h1 align="center">Hi 👋, I'm RAVI KIRAN</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi1652&label=Profile%20views&color=0e75b6&style=flat" alt="ravi1652" /> </p>
+# Hi, I’m Ravi Kiran 👋
 
-- 🌱 I’m Looking for internships,jobs**
+[![Profile views](https://komarev.com/ghpvc/?username=ravi1652&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ravi1652)
 
-- 👨‍💻 All of my projects are available at [https://ravikiransrm.netlify.app/](https://ravikiransrm.netlify.app/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome)](https://ravikiransrm.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green?style=flat-square&logo=adobe)](https://drive.google.com/file/d/1XKo6RPb2_RSq4ST1gRY-JO-tk2p0b8Cl/view?usp=sharing)
 
-- 📫 How to reach me **ravikiran6309@gmail.com**
+## About me
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XKo6RPb2_RSq4ST1gRY-JO-tk2p0b8Cl/view?usp=sharing](https://drive.google.com/file/d/1XKo6RPb2_RSq4ST1gRY-JO-tk2p0b8Cl/view?usp=sharing)
+Passionate software developer from India with experience building web applications and small systems projects. I enjoy turning ideas into reality using clean, maintainable code and a focus on user experience.
 
-- ⚡ Fun fact **I like to spend time on creating new things**
+- 🌱 Currently looking for internships and early-career roles.
+- 👨‍💻 Portfolio: https://ravikiransrm.netlify.app/
+- 📫 Email: ravikiran6309@gmail.com
+- ⚡ Fun fact: I like creating new things and learning by building.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nanubalaravikiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nanubalaravikiran" height="30" width="40" /></a>
-</p>
+## Highlights
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- Built web projects using React, Node.js and modern tooling.
+- Experience with databases (MongoDB, MySQL, PostgreSQL) and Python for scripting and small back-end tasks.
+- Comfortable with core C/C++ fundamentals and algorithmic problem solving.
+
+## Selected Projects
+
+- Portfolio (live) — a curated collection of projects and demos: https://ravikiransrm.netlify.app/
+- Resume/CV — downloadable PDF with education and experience: see the Resume badge above.
+
+For more projects, visit the portfolio link — each project includes a short write-up, screenshots, and source links when available.
+
+## Skills & Tools
+
+Core languages and frameworks:
+
+- JavaScript • React • HTML5 • CSS3 • Bootstrap
+- Python • C • C++
+- Node.js • Express
+
+Databases & Others:
+
+- MongoDB • MySQL • PostgreSQL
+
+Tools & platforms:
+
+- Git • VS Code • Netlify
+
+## Connect with me
+
+- LinkedIn: https://linkedin.com/in/nanubalaravikiran
+- Email: ravikiran6309@gmail.com
+
+## What I’m looking for
+
+Open to internships or junior roles where I can contribute to real products, learn from experienced engineers, and grow as a developer.
+
+---
+
+If you'd like, I can also add a polished GIF or screenshot gallery of projects, GitHub stats, or CI badges (build/test) — say which and I'll include them.
 
 
 
